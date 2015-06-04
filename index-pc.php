@@ -1,1 +1,0 @@
-<h1> Hola mundo, soy la PC-26 .! </h1>
